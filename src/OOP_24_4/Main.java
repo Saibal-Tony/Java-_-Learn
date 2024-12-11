@@ -15,6 +15,6 @@ public class Main
 
         ArrayList<Integer> list = new ArrayList<>();
 
-        System.out.println(obj.getNum() );
+        System.out.println(obj.getNum());
     }
 }
